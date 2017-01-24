@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 52EF-D5D2
+
+ Directory of C:\Users\USer\Desktop\New
+
+24/01/2017  07:29 PM    <DIR>          .
+24/01/2017  07:29 PM    <DIR>          ..
+24/01/2017  07:29 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  32,229,429,248 bytes free
